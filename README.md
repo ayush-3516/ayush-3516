@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayush-3516
+- 👋 Hi, I’m Ayush Chaudhari
 - 👀 I’m interested in Full-Stack Development and Blockchain Development
 - 🌱 I’m currently learning Java, Javascript, HTML, CSS, Solidity and PHP
 - 💞️ I’m looking to collaborate on Java Applications, making Smart Contracts and Dapps. I want to gain industry experiment in Software Development
