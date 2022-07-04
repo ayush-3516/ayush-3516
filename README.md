@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Ayush Chaudhari
-- 👀 I’m interested in Full-Stack Development and Blockchain Development
+- 👀 I’m interested in Full-Stack Blockchain Development
 - 🌱 I’m currently learning and practicing Java, Javascript, Solidity, CSS and Python
