@@ -28,19 +28,17 @@ I'm a passionate software engineer at the intersection of cloud infrastructure, 
 ### 💼 GenAI Fullstack Engineer – *ThriveTogether (T2 AI Consultancy Pvt. Ltd.)*
 
 *June 2025 – Present*
-Working on AI-first product modules, collaborating with senior developers on LLM adoption, UI/backend integration, and AI-driven features. Exploring MCP framework and coding with AI support.
+-> Working on AI-first product modules, collaborating with senior developers on LLM adoption, UI/backend integration, and AI-driven features. Exploring MCP framework and coding with AI support.
 
 ### 🧑‍💻 Software Engineer – *GPR Technology Ventures*
 
 *June 2024 – Present*
-
-Led development of **Rhino Bond** (cross-platform mobile + Vue.js admin dashboard). Full-stack responsibility from design to deployment.
+-> Led development of **Rhino Bond** (cross-platform mobile + Vue.js admin dashboard). Full-stack responsibility from design to deployment.
 
 ### 🕸️ Developer Relations / Outreach – *SecurrTech*
 
 *March 2023 – Feb 2024*
-
-Contributed to Web3 community strategy, technical content, and ecosystem engagement. Exposure to smart contract auditing and decentralized systems.
+-> Contributed to Web3 community strategy, technical content, and ecosystem engagement. Exposure to smart contract auditing and decentralized systems.
 
 ---
 
