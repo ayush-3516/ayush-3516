@@ -33,11 +33,13 @@ Working on AI-first product modules, collaborating with senior developers on LLM
 ### 🧑‍💻 Software Engineer – *GPR Technology Ventures*
 
 *June 2024 – Present*
+
 Led development of **Rhino Bond** (cross-platform mobile + Vue.js admin dashboard). Full-stack responsibility from design to deployment.
 
 ### 🕸️ Developer Relations / Outreach – *SecurrTech*
 
 *March 2023 – Feb 2024*
+
 Contributed to Web3 community strategy, technical content, and ecosystem engagement. Exposure to smart contract auditing and decentralized systems.
 
 ---
