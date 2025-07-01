@@ -15,11 +15,11 @@ I'm a passionate software engineer at the intersection of cloud infrastructure, 
 
 ## 🧠 What I Work With
 
-**Languages & Frameworks**: Go, Java, Solidity, JavaScript, React, Vue.js, HTMX
-**Infra & DevOps**: Docker, CI/CD, REST APIs, JWT, Git, System Design
-**Web3 Stack**: Hardhat, Metamask, Goerli & Polygon Testnets, IPFS (Pinata)
-**GenAI & ML**: Prompt engineering, AI app frameworks, GenAI integration (new role)
-**Cloud**: AWS (in progress), Containerization, Developer Tooling
+- **Languages & Frameworks**: Go, Java, Solidity, JavaScript, React, Vue.js, HTMX
+- **Infra & DevOps**: Docker, CI/CD, REST APIs, JWT, Git, System Design
+- **Web3 Stack**: Hardhat, Metamask, Goerli & Polygon Testnets, IPFS (Pinata)
+- **GenAI & ML**: Prompt engineering, AI app frameworks, GenAI integration (new role)
+- **Cloud**: AWS (in progress), Containerization, Developer Tooling
 
 ---
 
