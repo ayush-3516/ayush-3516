@@ -1,54 +1,62 @@
 [![@0xayush's Holopin board](https://holopin.io/api/user/board?user=0xayush)](https://holopin.io/@0xayush)
 
 # 👋 Hey, I'm Ayush Chaudhari
+### ⚙️ Backend & GenAI Engineer | 🤖 LLM / RAG Apps | 🔗 Web3 Builder
 
-### 💻 Backend & DevOps Engineer | ⚙️ Fullstack GenAI Developer | 🔗 Web3 Enthusiast
+I'm a software engineer working at the intersection of generative AI, backend systems, and blockchain. I love building scalable backend services, wiring up LLM-powered features, and shipping production AI apps end to end.
 
-I'm a passionate software engineer at the intersection of cloud infrastructure, blockchain, and generative AI. I love building scalable backend systems, deploying smart contracts, and now—working with AI-driven applications.
-
-- 💡 **GenAI Fullstack Engineer** at **ThriveTogether**, building production-ready AI apps  
-- 🔧 Software Engineer at **GPR Technology Ventures**, leading full-cycle mobile app development  
-- 🔐 Formerly at **SecurrTech**, working on Web3 security, smart contracts & ecosystem outreach  
-- 🌐 Open-source contributor & freelancer focused on backend, dApps, and system reliability  
+- 🤖 **Backend & GenAI Engineer** at **ThriveTogether (T2 AI Consultancy)**, building production AI products
+- 🔧 **Software Engineer** at **GPR Technology Ventures**, leading full-cycle mobile app development
+- 🔐 Formerly at **SecurrTech**, working on Web3 security, smart contracts & ecosystem outreach
+- 🌐 Open-source contributor & freelancer focused on backend, dApps, and system reliability
 
 ---
 
 ## 🧠 What I Work With
 
-- **Languages & Frameworks**: Go, Java, Solidity, JavaScript, React, Vue.js, HTMX  
-- **Infra & DevOps**: Docker, CI/CD, REST APIs, JWT, Git, System Design  
-- **Web3 Stack**: Hardhat, Metamask, Goerli & Polygon Testnets, IPFS (Pinata)  
-- **GenAI & ML**: Prompt engineering, AI app frameworks, GenAI integration (new role)  
-- **Cloud**: AWS (in progress), Containerization, Developer Tooling  
+- **Languages**: Python, Go, TypeScript, JavaScript, Solidity, Java, SQL
+- **Backend & Frameworks**: Node.js, Express, Flask, REST APIs, Socket.IO, JWT, System Design
+- **GenAI & ML**: LLM orchestration (OpenAI GPT-4o, Anthropic Claude, Google Gemini), LangChain, RAG, embeddings, prompt engineering, MCP (Model Context Protocol)
+- **Frontend**: React, Redux Toolkit, Vue.js, HTMX, Tailwind CSS, Vite
+- **Databases & Cloud**: MongoDB (aggregation, indexing), Azure Blob Storage, Docker, GitHub Actions, CI/CD
+- **Web3 Stack**: Hardhat, Metamask, Ethereum & Polygon testnets, IPFS (Pinata)
 
 ---
 
 ## 🚀 Experience
 
-### 💼 GenAI Fullstack Engineer – *ThriveTogether (T2 AI Consultancy Pvt. Ltd.)*  
-**June 2025 – Present**  
-→ Working on AI-first product modules, collaborating with senior developers on LLM adoption, UI/backend integration, and AI-driven features. Exploring MCP framework and coding with AI support.
+### 🤖 Backend & GenAI Engineer – *ThriveTogether (T2 AI Consultancy Pvt. Ltd.)*
+**June 2025 – Present**
 
-### 🧑‍💻 Software Engineer – *GPR Technology Ventures*  
-**June 2024 – Present**  
-→ Led development of **Rhino Bond** (cross-platform mobile + Vue.js admin dashboard). Full-stack responsibility from design to deployment.
+Building production backend and generative-AI features across the company's products:
 
-### 🕸️ Developer Relations / Outreach – *SecurrTech*  
-**March 2023 – Feb 2024**  
+- **Meraki** *(flagship AI sales-intelligence product — Python, Flask, MongoDB, multi-LLM)*: architected a multi-owner lead system with RBAC and MongoDB sparse indexes, incremental Zoho/Merrito CRM ETL sync, AI lead scoring & nurture planning, and a multi-provider LLM fallback chain (Claude → Gemini → OpenAI) with prompt caching for AI call-coaching reports.
+- **College2Career (C2C)** *(Node.js, TypeScript, React, MongoDB)*: built microservices (profile / LinkedIn / interview AI) powering chat-based profile creation, AI-tailored resumes, cover letters, and mock interviews, with real-time UX over Socket.IO / SSE.
+- **GenAI Lab** *(TypeScript, Node.js, React, MongoDB, Azure)*: multi-tenant AI education platform with institutional RBAC, token-quota enforcement, cost analytics, and integrations across Claude, GPT / DALL-E, Gemini, and ElevenLabs.
+- **Multilingual RAG Chatbot** *(TypeScript, LangChain, MongoDB, Azure Blob)*: 40+ language event assistant on a RAG pipeline with Gemini + OpenAI fallback.
+
+### 🧑‍💻 Software Engineer – *GPR Technology Ventures*
+**June 2024 – Present**
+
+→ Led development of **Rhino Bond** (cross-platform mobile app + Vue.js admin dashboard). Full-stack responsibility from design to deployment.
+
+### 🕸️ Developer Relations / Outreach – *SecurrTech*
+**March 2023 – Feb 2024**
+
 → Contributed to Web3 community strategy, technical content, and ecosystem engagement. Exposure to smart contract auditing and decentralized systems.
 
 ---
 
 ## 🧩 Notable Projects
 
-- [**MindShelf**](https://github.com/ayush-3516/MindShelf): Personal link manager built with Go, Docker & JWT Auth  
-- [**Dynamic NFT**](https://github.com/ayush-3516/dynamic-NFT-with-onChain-metadata): Game-level NFTs with on-chain metadata and SVG manipulation  
-- [**Multi-Signature Wallet**](https://github.com/ayush-3516/multi-signature-wallet): Ethereum smart contract requiring multi-party approval  
-- [**ERC-721 & ERC-20 Tokens**](https://github.com/ayush-3516/Making-ERC-721-NFT): NFT and fungible token standards built on Ethereum & Polygon testnets  
+- [**MindShelf**](https://github.com/ayush-3516/MindShelf): Personal link manager built with Go, Docker & JWT Auth
+- [**Dynamic NFT**](https://github.com/ayush-3516/dynamic-NFT-with-onChain-metadata): Game-level NFTs with on-chain metadata and SVG manipulation
+- [**Multi-Signature Wallet**](https://github.com/ayush-3516/multi-signature-wallet): Ethereum smart contract requiring multi-party approval
+- [**ERC-721 & ERC-20 Tokens**](https://github.com/ayush-3516/Making-ERC-721-NFT): NFT and fungible token standards built on Ethereum & Polygon testnets
 
 ---
 
-## 🌍 Let’s Connect
+## 🌍 Let's Connect
 
-📬 **[ayushchaudhari3516@gmail.com](mailto:ayushchaudhari3516@gmail.com)**  
+📬 **[ayushchaudhari3516@gmail.com](mailto:ayushchaudhari3516@gmail.com)**
 🔗 [LinkedIn](https://www.linkedin.com/in/ayushchaudhari) • [GitHub](https://github.com/ayush-3516) • [Freelance? DM Me!](mailto:ayushchaudhari3516@gmail.com)
